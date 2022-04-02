@@ -1,0 +1,8 @@
+*.csv
+*.db
+*.pyc
+__pycache__
+.vscode
+*.zip
+*.tar
+*.gz
